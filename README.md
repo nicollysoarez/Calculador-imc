@@ -28,4 +28,8 @@ Este aplicativo Android permite calcular o IMC (Índice de Massa Corporal) com b
 1. Clone o repositório:
    ```bash
    git clone https://github.com/Nicolasrjm/Calculadora-imc.git
+2. Vá em:
+Build > Build Bundle(s) / APK(s) > Build APK(s)
 
+3. Quando terminar, clique em:
+locate → isso vai abrir a pasta com o APK
