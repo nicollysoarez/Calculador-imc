@@ -1,3 +1,6 @@
+![Capa do Projeto](capa_imc.png)
+
+
 # 📱 Calculadora de IMC – App Android
 
 Este aplicativo Android permite calcular o IMC (Índice de Massa Corporal) com base no peso e altura informados pelo usuário. O resultado apresenta a classificação do IMC com mensagem personalizada e uma imagem ilustrativa.
