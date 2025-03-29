@@ -1,0 +1,28 @@
+<resources>
+    <!-- App -->
+    <string name="app_name">Calculadora IMC</string>
+
+    <!-- MainActivity -->
+    <string name="btn_abrir_calculadora">Calculadora IMC</string>
+
+    <!-- CalculoIMCActivity -->
+    <string name="hint_peso">Peso (kg)</string>
+    <string name="hint_altura">Altura (m)</string>
+    <string name="btn_calcular">Calcular IMC</string>
+    <string name="btn_limpar">Limpar</string>
+    <string name="btn_fechar">Fechar</string>
+
+    <string name="imagem_resultado">Imagem resultado</string>
+
+    <!-- Feedback base -->
+    <string name="dados">Dados</string>
+    <string name="mensagem_positiva">Mensagem positiva</string>
+
+    <!-- Mensagens por categoria -->
+    <string name="abaixo_do_peso">Você está abaixo do peso ideal. Cuide-se bem e busque equilíbrio 💪</string>
+    <string name="peso_normal">Parabéns! Você está com o peso ideal 😊</string>
+    <string name="sobrepeso">Você está com sobrepeso. Que tal incluir mais movimentos no seu dia? 🚶‍♀️</string>
+    <string name="obesidade_1">Estamos juntos nessa jornada! Faça escolhas saudáveis todos os dias 🥦</string>
+    <string name="obesidade_2">Com apoio e persistência, você pode mudar sua história. Força! ✨</string>
+    <string name="obesidade_3">Você é mais forte do que imagina. Um passo de cada vez! 💖</string>
+</resources>
