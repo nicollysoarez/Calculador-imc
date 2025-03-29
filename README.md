@@ -13,19 +13,6 @@ Este aplicativo Android permite calcular o IMC (Índice de Massa Corporal) com b
 
 ---
 
-## 📷 Capturas de Tela
-
-### Tela Inicial
-![Tela Inicial](https://via.placeholder.com/300x600.png?text=Tela+Inicial)
-
-### Tela de Cálculo
-![Tela de Cálculo](https://via.placeholder.com/300x600.png?text=Calcular+IMC)
-
-### Resultado
-![Resultado](https://via.placeholder.com/300x600.png?text=Resultado+IMC)
-
----
-
 ## ✅ Funcionalidades
 
 - Entrada de peso e altura
